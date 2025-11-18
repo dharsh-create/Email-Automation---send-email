@@ -1,4 +1,4 @@
-# Ex-07: Send Email Using Gmail
+# Ex-10: Send Email Using Gmail
 
 # AIM:
 
